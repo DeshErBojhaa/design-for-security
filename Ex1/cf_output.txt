@@ -1,0 +1,9 @@
+S3
+BucketArnVPCFlowLogs	arn:aws:s3:::cand-c3-vpc-flow-logs-639361319097
+BucketNameRecipesFree	cand-c3-free-recipes-639361319097
+BucketNameRecipesSecret	cand-c3-secret-recipes-639361319097
+
+App
+ApplicationInstanceIP	ec2-34-196-25-249.compute-1.amazonaws.com
+ApplicationURL	        c1-web-service-alb-1257648320.us-east-1.elb.amazonaws.com
+AttackInstanceIP	    ec2-54-175-137-173.compute-1.amazonaws.com
